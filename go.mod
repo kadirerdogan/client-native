@@ -1,4 +1,4 @@
-module github.com/haproxytech/client-native/v2
+module github.com/kadirerdogan/client-native/v2
 
 go 1.14
 
